@@ -1,3 +1,4 @@
+# File Manager
 At the end of this project, you are expected to understand:
   - How to create an API with Express
   - How to authenticate a user
